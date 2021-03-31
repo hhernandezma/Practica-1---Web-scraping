@@ -2,7 +2,7 @@
 
 # Descripción 
 
-Ejercicioo realizado como Práctica 1 dentro de la asignatura M2.851 - Tipología y ciclo de vida de los datos aula 3.
+Ejercicio realizado como Práctica 1 dentro de la asignatura M2.851 - Tipología y ciclo de vida de los datos aula 3.
 
 # Miembros del Equipo 
 
