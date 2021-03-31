@@ -2,13 +2,15 @@
 
 # Descripción 
 
-Ejericio realizado como practica..
+Ejercio realizado como Práctica 1 dentro de la asignatura M2.851 - Tipología y ciclo de vida de los datos aula 3.
 
 # Miembros del Equipo 
-La actividad ha sido realizada de manera individual por Hernando Hernandez.
+
+La actividad ha sido realizada de manera individual por Hernando Hernández Mariño.
 
 # 1. Contexto 
-La información recolectada para este ejercicio se realizó con la plataforma “Wikipedia” ya que es una fuente de información abierta, de fácil acceso, colaborativa; además, es posible verificar la información suministrada ya que disponen de las fuentes de donde se obtuvo toda la información plasmada en la página. 
+
+La información recolectada para este ejercicio se realizó con la plataforma “Wikipedia” ya que es una fuente de información abierta, de fácil acceso, colaborativa; además es posible verificar la información suministrada, pues disponen de las fuentes de donde se obtuvo toda la información plasmada en la página web. 
 
 # 2. Titulo del DataSet
 
@@ -22,7 +24,7 @@ Este dataset posee la información de la cantidad poblacional por país y su por
 
 ![image](https://user-images.githubusercontent.com/81597670/113203866-2d3e2680-9232-11eb-9173-90e9e2191c38.png)
 
-fuente: 'https://es.wikipedia.org/wiki/Anexo:Pa%C3%ADses_y_territorios_dependientes_por_poblaci%C3%B3n'
+fuente: https://es.wikipedia.org/wiki/Anexo:Pa%C3%ADses_y_territorios_dependientes_por_poblaci%C3%B3n
 
 # 5. Contenido
 
@@ -53,7 +55,9 @@ Los campos que contiene el dataset generado son los siguientes:
 # 8. Licencia
 
 # 9. Codigó utilizado
+
 El codigó utilizado para la extracción de la información ya se encuentra cargado dentro del repositorio para su consulta y revisión. 
 
 # 10. Dataset
-El Dataset creado como resultado del ejercicio elaborado se encuentra cargado dentro del repositorio para su consulta y revisión en formato Csv. 
+
+El Dataset creado como resultado del ejercicio elaborado se encuentra cargado dentro del repositorio para su consulta y revisión en formato CSV. 
