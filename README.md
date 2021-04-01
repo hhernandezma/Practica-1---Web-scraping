@@ -18,7 +18,7 @@ Población Mundial
 
 # 3. Descripción del DataSet
 
-Este dataset posee la información de la cantidad poblacional por país y su porcentaje respecto al total mundial. Se basa en la recolección del ultimo censo registrado en cada país, para de allí hacer cálculos estadísticos como sus proyecciones al año en curso y sus variaciones temporales. 
+Este dataset posee la información de la cantidad poblacional por país y su porcentaje respecto al total mundial. Se basa en la recolección del ultimo censo registrado en cada país, para de allí hacer cálculos estadísticos tales como proyecciones al año en curso y variaciones temporales. 
 
 # 4. Representación Gráfica
 
@@ -48,16 +48,24 @@ Los campos que contiene el dataset generado son los siguientes:
 
 # 6. Agradecimientos 
 
+El propietario o autor de los datos son los colaboradores de Wikipedia y la edición es de Wikipedia, La enciclopedia libre.
 
 # 7. Inspiración 
 
+Las proyecciones de población son importantes dado que permiten estudiar los efectos de las variaciones de los principales componentes demográficos, así como la manera en que se reflejan en el volumen y la estructura por edad dentro de los países. Ahora bien, particularmente, las proyecciones demográficas suponen una simulación estadística que ayudan a conocer cuál será la evolución futura de la población en un país bajo determinadas hipótesis de fecundidad, mortalidad y migración. La importancia de estas proyecciones radica en su utilización posterior en otros ejercicios, como por ejemplo en la proyección del gasto en pensiones, en la estimación del crecimiento del PIB o los niveles de empleo, la planeación de servicios sociales, civiles o educativos, entre otros temas. 
+
+Específicamente, las preguntas que podrían responder el conjunto de datos descrito son por ejemplo: ¿Cuál es la distribución de la población por continentes, subcontinentes o regiones especificas?; ¿Cuál es la variación anual de la población por países?; ¿Cuál es promedio de años para que eventualmente, la población se duplique por países en términos comparativos? 
 
 # 8. Licencia
 
+Al revisar el código fuente de la página web seleccionadas se identifica que la licencia esta bajo CC BY-SA 3.0, la cual permite compartir, copiar y redistribuir el material en cualquier medio o formato. Así mismo, adaptar, remezclar, transformar y construir sobre el material para cualquier propósito, incluso comercialmente. Lo anterior, siempre se conceda el crédito adecuado y proporcionando un enlace a la licencia e indicar si se realizaron modificaciones.
+
+Dentro del listado proporcionado se selecciona CC BY-SA 4.0 License, dado que se debe proveer el nombre del creador del conjunto de datos generado, indicando los cambios que se han realizado; lo cual permite reconocimientos a los autores. Por otra parte, esta licencia consiente el uso comercial; lo cual favorece el uso de los datos generados por los empresarios y/o emprendedores. Y finalmente, las contribuciones que se realicen, bajo esta licencia, garantizan que estas mismas se lleven a cabo también por esta misma licencia; lo cual es clave para los autores, pues se les admite que continúen distribuyendo bajo los términos que el autor o autores plantearon.
+
 # 9. Codigó utilizado
 
-El codigó utilizado para la extracción de la información ya se encuentra cargado dentro del repositorio para su consulta y revisión. 
+El codigó utilizado para la extracción de la información ya se encuentra cargado dentro del repositorio para consulta y revisión. 
 
 # 10. Dataset
 
-El Dataset creado como resultado del ejercicio elaborado se encuentra cargado dentro del repositorio para su consulta y revisión en formato CSV. 
+El Dataset creado como resultado del ejercicio elaborado se encuentra cargado dentro del repositorio para consulta y revisión en formato CSV. 
