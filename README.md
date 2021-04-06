@@ -2,7 +2,7 @@
 
 # Descripción 
 
-Ejercicio realizado como Práctica 1 dentro de la asignatura M2.851 - Tipología y ciclo de vida de los datos aula 3 del Master de Ciencia de Datos de la Universitat Oberta de Catalunya.
+Ejercicio realizado como Práctica 1 de la asignatura M2.851-Tipología y ciclo de vida de los datos dentro del Master de Ciencia de Datos de la Universitat Oberta de Catalunya.
 
 # Miembros del Equipo 
 
@@ -18,7 +18,7 @@ Proyecciones demográficas de países al 1 de julio de 2021.
 
 # 3. Descripción del DataSet
 
-Este dataset presenta la proyección exponencial de la cantidad de población por país al 1 de julio de 2021. También ofrece porcentajes de la población por países respecto al total mundial, las variaciones temporales (cambios medios y absolutos anuales) por países y cálculos del tiempo de duplicación de la población por país. Finalmente brinda cifras recolectadas a partir de: censo más reciente, última estimación oficial, proyección de la ONU o el reloj de población nacional.
+Este dataset presenta la proyección exponencial de la cantidad de población por país al 1 de julio de 2021. También ofrece porcentajes de la población por países respecto al total mundial, las variaciones temporales (cambios medios y absolutos anuales) por países y cálculos del tiempo de duplicación de la población por país. Finalmente brinda cifras recolectadas a partir de fuentes tales como el censo más reciente, la última estimación oficial, la proyección de la ONU o el reloj de población nacional.
 
 # 4. Representación Gráfica
 
