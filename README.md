@@ -30,23 +30,28 @@ Fuente: https://es.wikipedia.org/wiki/Anexo:Pa%C3%ADses_y_territorios_dependient
 
 # 5. Contenido
 
-Los campos que contiene el dataset generado son los siguientes: 
+El código utilizado para realizar web-scraping en una de las paginas de Wikipedia, comienza con algunos comandos que son ideales para hacer previo a la extracción de la información, tales como conocer la estructura de la página, el dueño y los posibles directorios que esta página pude excluir. 
+La pagina contiene información sobre la distribución poblacional del mundo por países y, esta se encuentra consolidada en una de las dos tablas que contiene la página; Por esto, procedemos, inicialmente, con la extracción del link, identificamos los elementos definidos como “table” en aras de encontrar la información de nuestro interés.
+Una vez encontrada la tabla de nuestro interés, utilizamos comandos para comenzar a extraer la información de ella, la cual contiene las siguientes variables: 
 
-•	Países: Nombre del país a tratar.
+• Países: Nombre del país a tratar.
 
-•	Proyeccion_2021: Es la cantidad poblacional proyectada al año en curso (2021) de cada país.
+• Proyeccion_2021: Es la cantidad poblacional proyectada al año en curso (2021) de cada país.
 
-•	Porcentaje: Es el peso porcentual que tiene la cantidad poblacional de cada país, respecto al total de la población mundial. 
+• Porcentaje: Es el peso porcentual que tiene la cantidad poblacional de cada país, respecto al total de la población mundial.
 
-•	CMA: Es el cambio medio anual en la cantidad poblacional de cada país.
+• CMA: Es el cambio medio anual en la cantidad poblacional de cada país.
 
-•	CAAP: Es el cambio absoluto anual promedio de la cantidad poblacional de cada país. 
+• CAAP: Es el cambio absoluto anual promedio de la cantidad poblacional de cada país.
 
-•	PCMATA: Es el cambio medio absoluto total anual en cifras porcentuales. 
+• PCMATA: Es el cambio medio absoluto total anual en cifras porcentuales.
 
-•	AED: La cantidad de años que se tardaría el país en lograr duplicar su población actual. 
+• AED: La cantidad de años que se tardaría el país en lograr duplicar su población actual.
 
-•	CMR: Es el censo más reciente, fuente utilizada para las proyecciones poblacionales y demás cálculos estadísticos.
+• CMR: Es el censo más reciente, fuente utilizada para las proyecciones poblacionales y demás cálculos estadísticos.
+
+Estas variables son las que contienen la información de cada país y, es la que conforman el DataSet resultante de nuestro código. 
+
 
 # 6. Agradecimientos 
 
